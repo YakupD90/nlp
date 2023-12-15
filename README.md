@@ -1,1 +1,1 @@
-# nlp
+# ödev mkdocs formatında yüklenecektir
