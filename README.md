@@ -1,1 +1,1 @@
-# ödev mkdocs formatında yüklenecektir
+# ödev
